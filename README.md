@@ -1,2 +1,2 @@
-# data-engineer-digitalentkominfobeginner_and_profesional
+# data-engineer-digitalentkominfo-professional-academy
 project by course digitalent kominfo
